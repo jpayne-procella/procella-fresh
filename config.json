@@ -1,193 +1,101 @@
 {
     "params": {
         "navbarlogo": {
-            "image": "uploads/2020/02bca51424.png",
+            "image": "uploads/2023/procella-no-words-transparent.png",
+            "width": 40,
+            "height": 40,
             "link": "/"
         },
         "hero": {
-            "title": "Learn. Build Strategy. Plan Tactically.  Budget. Test. Deploy. Repeat.",
-            "subtitle": "Lots of fun stuff here",
-            "buttontext": "Get started",
-            "buttonlink": "#",
-            "image": "illustrations/worker.svg",
-            "clientlogos": [
-                {
-                    "logo": "systek",
-                    "url": "https://google.com"
-                },
-                {
-                    "logo": "tribe",
-                    "url": "https://stefma.github.io/hugo-fresh/"
-                },
-                {
-                    "logo": "kromo",
-                    "url": "https://github.com/StefMa/hugo-fresh"
-                },
-                {
-                    "logo": "infinite",
-                    "url": "https://hugo-fresh.vercel.app/"
-                },
-                {
-                    "logo": "gutwork",
-                    "url": "https://bulma.io/"
-                }
-            ]
+            "title": "Turbo Charge your Zero Trust Initiative",
+            "subtitle": "Procella is your trusted partner to provide experience and expertise in Zero Trust/SASE",
+            "buttontext": "Contact Us",
+            "buttonlink": "/contact",
+            "image": "illustrations/worker.svg", 
+            "_comment_for_logos": "clientlogos is an array of objects with logo and url.  logo is an SVG in static/images/logos/clients/"          
         },
         "navbar": [
             {
-                "title": "Features",
-                "url": "/"
+                "title": "About",
+                "url": "/about"
             },
             {
-                "title": "Pricing",
-                "url": "/"
+                "title": "Blog Archive",
+                "url": "/archive"
             },
             {
-                "title": "Dropdown",
+                "title": "Services",
                 "sublinks": [
                     {
-                        "title": "Dropdown item",
-                        "url": "/"
+                        "title": "What We Do",
+                        "url": "/services"
                     },
                     {
-                        "title": "Dropdown item",
-                        "url": "/"
-                    },
-                    {
-                        "title": "Dropdown item",
-                        "url": "/"
+                        "title": "Zero Trust",
+                        "url": "/zerotrust"
                     }
                 ]
             },
             {
-                "title": "Log in",
-                "url": "/"
-            },
-            {
-                "title": "Sign up",
-                "url": "/",
+                "title": "Contact Us",
+                "url": "/contact",
                 "button": true
             }
         ],
-        "sidebar": {
-            "logo": "fresh-square",
-            "sections": [
-                {
-                    "title": "User",
-                    "icon": "user",
-                    "links": [
-                        {
-                            "text": "Profile",
-                            "url": "/"
-                        },
-                        {
-                            "text": "Account",
-                            "url": "/"
-                        },
-                        {
-                            "text": "Settings",
-                            "url": "/"
-                        }
-                    ]
-                },
-                {
-                    "title": "Messages",
-                    "icon": "envelope",
-                    "links": [
-                        {
-                            "text": "Inbox",
-                            "url": "/"
-                        },
-                        {
-                            "text": "Compose",
-                            "url": "/"
-                        }
-                    ]
-                },
-                {
-                    "title": "Images",
-                    "icon": "image",
-                    "links": [
-                        {
-                            "text": "Library",
-                            "url": "/"
-                        },
-                        {
-                            "text": "Upload",
-                            "url": "/"
-                        }
-                    ]
-                },
-                {
-                    "title": "Settings",
-                    "icon": "cog",
-                    "links": [
-                        {
-                            "text": "User settings",
-                            "url": "/"
-                        },
-                        {
-                            "text": "App settings",
-                            "url": "/"
-                        }
-                    ]
-                }
-            ]
-        },
         "section1": {
-            "title": "Great power comes",
-            "subtitle": "with great responsibility",
+            "title": "A Zero Trust Journey Requires",
+            "subtitle": "a trusted partner",
             "tiles": [
                 {
-                    "title": "App builder",
+                    "title": "Readiness Assessments",
                     "icon": "mouse-globe",
-                    "text": "This is some explanatory text that is on two rows",
-                    "url": "/",
-                    "buttonText": "Free trial"
+                    "text": "Fine-grained assessments of strategic/operational readiness for Zero Trust/SASE",
+                    "url": "/services#assess",
+                    "buttonText": "Learn More"
                 },
                 {
-                    "title": "Cloud integration",
+                    "title": "Strategic Planning",
                     "icon": "laptop-cloud",
-                    "text": "This is some explanatory text that is on two rows",
-                    "url": "/",
-                    "buttonText": "Get started"
+                    "text": "Experienced vision and guidance for all facets of Zero Trust/SASE rollouts",
+                    "url": "/services#plan",
+                    "buttonText": "Learn More"
                 },
                 {
-                    "title": "Add-ons & plugins",
+                    "title": "Demystifying Zero Trust",
                     "icon": "plug-cloud",
-                    "text": "This is some explanatory text that is on two rows",
-                    "url": "/",
-                    "buttonText": "Get started"
+                    "text": "Pre- and post-sales support/partnership for a wide range of vendors",
+                    "url": "/services#learn",
+                    "buttonText": "Learn More"
                 }
             ]
         },
         "section2": {
-            "title": "You're here because you want the best",
-            "subtitle": "And we know it",
+            "title": "A Zero Trust Journey Requires",
+            "subtitle": "deep expertise",
             "features": [
                 {
-                    "title": "Powerful and unified interface",
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.",
+                    "title": "Practical Experience",
+                    "text": "- 50+ years combined IT/Security experience\n- 37+ years combined Akamai tenure in a variety of IT, product, and customer-facing roles\n- Successfully led all major infrastructure and security rollouts and integrations\n- Identification of/due diligence for M&A targets",
                     "icon": "laptop-globe"
                 },
                 {
-                    "title": "Cross-device synchronisation",
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.",
+                    "title": "Subject Matter Expertise",
+                    "text": "- Security Architecture, Engineering and Operations\n- Network and Systems Infrastructure\n- Identity and Access Management\n- Scripting and orchestration\n- Technology integrations",
                     "icon": "doc-sync"
                 },
                 {
-                    "title": "Nomad system",
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.",
+                    "title": "Thought Leadership",
+                    "text": "- SASE and Zero Trust evangelists/speakers\n- Strategic vision with a contemporary touch\n- Comfortable speaking with board members, CXOs and all levels of technologists and business leaders\n- Focused on solutions, not vendors",
                     "icon": "mobile-feed"
                 }
             ]
         },
         "section3": {
-            "title": "One platform",
-            "subtitle": "To rule them all",
-            "image": "illustrations/mockups/app-mockup.png",
+            "title": "A Zero Trust Journey Requires",
+            "subtitle": "experts in a robust ecosystem",
+            "image": "uploads/2023/procella-passion.png",
             "buttonText": "Get started",
-            "buttonLink": "#"
+            "buttonLink": "/contact"
         },
         "section4": {
             "title": "Our Clients love us!",
@@ -213,98 +121,24 @@
                 }
             ]
         },
-        "section5": {
-            "title": "Drop us a line or two",
-            "subtitle": "We'd love to hear from you",
-            "buttonText": "Send Message"
-        },
         "footer": {
-            "logo": "fresh-white-alt.svg",
+            "logo": "uploads/2023/procella-no-words-transparent.png",
             "socialmediatitle": "Follow Us",
             "socialmedia": [
                 {
-                    "link": "https://github.com/StefMa",
-                    "icon": "github"
+                    "link": "https://micro.blog/procella?remote_follow=1",
+                    "icon": "mastodon"
                 },
                 {
-                    "link": "https://dribbble.com/#",
-                    "icon": "dribbble"
+                    "link": "https://micro.blog/procella",
+                    "icon": "microblog"
                 },
                 {
-                    "link": "https://facebook.com/#",
-                    "icon": "facebook"
-                },
-                {
-                    "link": "https://twitter.com/StefMa91",
+                    "link": "https://twitter.com/procellatech",
                     "icon": "twitter"
-                },
-                {
-                    "link": "https://bitbucket.org/#",
-                    "icon": "bitbucket"
                 }
             ],
-            "bulmalogo": true,
-            "quicklinks": {
-                "column1": {
-                    "title": "Product",
-                    "links": [
-                        {
-                            "text": "Discover features",
-                            "link": "/"
-                        },
-                        {
-                            "text": "Why choose our product?",
-                            "link": "/"
-                        },
-                        {
-                            "text": "Compare features",
-                            "link": "/"
-                        },
-                        {
-                            "text": "Our roadmap",
-                            "link": "/"
-                        },
-                        {
-                            "text": "AGB",
-                            "link": "/agb"
-                        }
-                    ]
-                },
-                "column2": {
-                    "title": "Docs",
-                    "links": [
-                        {
-                            "text": "Get started",
-                            "link": "/"
-                        },
-                        {
-                            "text": "User guides",
-                            "link": "/"
-                        },
-                        {
-                            "text": "Admin guide",
-                            "link": "/"
-                        },
-                        {
-                            "text": "Developers",
-                            "link": "/"
-                        }
-                    ]
-                },
-                "column3": {
-                    "title": "Blog",
-                    "links": [
-                        {
-                            "text": "Latest news",
-                            "link": "/blog/first"
-                        },
-                        {
-                            "text": "Tech articles",
-                            "link": "/blog/second"
-                        }
-                    ]
-                }
-            }
+            "bulmalogo": false
         }
     }
 }
