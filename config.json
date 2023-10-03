@@ -20,7 +20,7 @@
                 "url": "/about"
             },
             {
-                "title": "Blog Archive",
+                "title": "Blog",
                 "url": "/archive"
             },
             {
@@ -71,7 +71,7 @@
         },
         "section2": {
             "title": "A Zero Trust Journey Requires",
-            "subtitle": "deep expertise",
+            "subtitle": "experience and expertise",
             "features": [
                 {
                     "title": "Practical Experience",
