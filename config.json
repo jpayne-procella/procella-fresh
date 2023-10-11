@@ -11,7 +11,7 @@
             "subtitle": "Procella is your trusted partner to provide experience and expertise in Zero Trust/SASE",
             "buttontext": "Contact Us",
             "buttonlink": "/contact",
-            "image": "illustrations/worker.svg", 
+            "image": "uploads/2020/02bca51424.png", 
             "_comment_for_logos": "clientlogos is an array of objects with logo and url.  logo is an SVG in static/images/logos/clients/"          
         },
         "navbar": [
@@ -98,26 +98,20 @@
             "buttonLink": "/contact"
         },
         "section4": {
-            "title": "Our Clients love us!",
-            "subtitle": "Lorem ipsum sit dolor amet is a dummy text used by typography industry",
+            "title": "Our reputation means everything to us!",
+            "subtitle": "We don't have former colleagues, we have a substantial network.",
             "clients": [
                 {
-                    "name": "Irma Walters",
-                    "quote": "Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.",
-                    "job": "Accountant",
-                    "img": 1
+                    "name": "Andy Ellis",
+                    "quote": "John and Joe are two of the most tech and business savvy professionals I’ve ever worked with. I couldn’t have better partners in designing one of the industry’s first Zero Trust enterprise architectures.",
+                    "job": "Operating Partner, YL Ventures",
+                    "img": 3
                 },
                 {
                     "name": "John Bradley",
                     "quote": "Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.",
                     "job": "Financial Analyst",
                     "img": 2
-                },
-                {
-                    "name": "Gary Blackman",
-                    "quote": "Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.",
-                    "job": "HR Manager",
-                    "img": 3
                 }
             ]
         },
@@ -138,7 +132,18 @@
                     "icon": "twitter"
                 }
             ],
-            "bulmalogo": false
+            "bulmalogo": false,
+            "quicklinks": { 
+                "column1": {
+                    "title": "Take the first step",
+                    "links": [
+                        {
+                            "text": "Contact Us",
+                            "link": "/contact"
+                        }
+                     ]
+                }
+            }
         }
     }
 }
