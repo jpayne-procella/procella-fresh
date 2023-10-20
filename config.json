@@ -105,13 +105,19 @@
                     "name": "Andy Ellis",
                     "quote": "John and Joe are two of the most tech and business savvy professionals I’ve ever worked with. I couldn’t have better partners in designing one of the industry’s first Zero Trust enterprise architectures.",
                     "job": "Operating Partner, YL Ventures",
-                    "img": 3
+                    "img": "aellis"
                 },
                 {
-                    "name": "John Bradley",
-                    "quote": "Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.",
-                    "job": "Financial Analyst",
-                    "img": 2
+                    "name": "Charlie Gero",
+                    "quote": "something really nice",
+                    "job": "Chief Technology Officer",
+                    "img": "cgero"
+                },
+                {
+                    "name": "Kumud Kalia",
+                    "quote": "Both Joe and John bring deep engineering expertise to the security domain. Their understanding of enterprise infrastructure, networking and software is priceless for building sustainable business/technology solutions. Love working with these guys and cannot commend them highly enough!",
+                    "job": "CIO | CTO | COO | Advisor | Board Member",
+                    "img": "kkalia"
                 }
             ]
         },
