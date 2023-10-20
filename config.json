@@ -48,21 +48,21 @@
             "tiles": [
                 {
                     "title": "Readiness Assessments",
-                    "icon": "mouse-globe",
+                    "icon": "conversation",
                     "text": "Fine-grained assessments of strategic/operational readiness for Zero Trust/SASE",
                     "url": "/services#assess",
                     "buttonText": "Learn More"
                 },
                 {
                     "title": "Strategic Planning",
-                    "icon": "laptop-cloud",
+                    "icon": "task",
                     "text": "Experienced vision and guidance for all facets of Zero Trust/SASE rollouts",
                     "url": "/services#plan",
                     "buttonText": "Learn More"
                 },
                 {
                     "title": "Demystifying Zero Trust",
-                    "icon": "plug-cloud",
+                    "icon": "lightbulb",
                     "text": "Pre- and post-sales support/partnership for a wide range of vendors",
                     "url": "/services#learn",
                     "buttonText": "Learn More"
@@ -76,17 +76,17 @@
                 {
                     "title": "Practical Experience",
                     "text": "- 50+ years combined IT/Security experience\n- 37+ years combined Akamai tenure in a variety of IT, product, and customer-facing roles\n- Successfully led all major infrastructure and security rollouts and integrations\n- Identification of/due diligence for M&A targets",
-                    "icon": "laptop-globe"
+                    "icon": "corporation"
                 },
                 {
                     "title": "Subject Matter Expertise",
                     "text": "- Security Architecture, Engineering and Operations\n- Network and Systems Infrastructure\n- Identity and Access Management\n- Scripting and orchestration\n- Technology integrations",
-                    "icon": "doc-sync"
+                    "icon": "award"
                 },
                 {
                     "title": "Thought Leadership",
                     "text": "- SASE and Zero Trust evangelists/speakers\n- Strategic vision with a contemporary touch\n- Comfortable speaking with board members, CXOs and all levels of technologists and business leaders\n- Focused on solutions, not vendors",
-                    "icon": "mobile-feed"
+                    "icon": "speaker"
                 }
             ]
         },
