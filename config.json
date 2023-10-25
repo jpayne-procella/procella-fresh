@@ -134,6 +134,10 @@
                     "icon": "microblog"
                 },
                 {
+                    "link": "https://www.linkedin.com/company/procellatech",
+                    "icon": "linkedin"
+                },
+                {
                     "link": "https://x.com/procellatech",
                     "icon": "x-twitter"
                 }
