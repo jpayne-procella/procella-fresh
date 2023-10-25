@@ -134,8 +134,8 @@
                     "icon": "microblog"
                 },
                 {
-                    "link": "https://twitter.com/procellatech",
-                    "icon": "twitter"
+                    "link": "https://x.com/procellatech",
+                    "icon": "x-twitter"
                 }
             ],
             "bulmalogo": false,
