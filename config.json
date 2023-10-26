@@ -29,10 +29,6 @@
                     {
                         "title": "What We Do",
                         "url": "/services"
-                    },
-                    {
-                        "title": "Zero Trust",
-                        "url": "/zerotrust"
                     }
                 ]
             },
