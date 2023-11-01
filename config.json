@@ -71,17 +71,17 @@
             "tiles": [
                 {
                     "title": "Practical Experience",
-                    "text": "<ul><li>50+ years combined IT/Security experience</li><li>37+ years combined Akamai tenure in a variety of IT, product, and customer-facing roles</li><li>Successfully led all major infrastructure and security rollouts and integrations</li><li>Identification of/due diligence for M&A targets</li></ul>",
+                    "text": "50+ years combined IT/Security experience\n37+ years combined Akamai tenure in a variety of IT, product, and customer-facing roles\nSuccessfully led all major infrastructure and security rollouts and integrations\nIdentification of/due diligence for M&A targets",
                     "icon": "corporation"
                 },
                 {
                     "title": "Subject Matter Expertise",
-                    "text": "<ul><li>Security Architecture, Engineering and Operations</li><li>Network and Systems Infrastructure</li><li>Identity and Access Management</li><li>Scripting and orchestration</li><li>Technology integrations</li></ul>",
+                    "text": "Security Architecture, Engineering and Operations\nNetwork and Systems Infrastructure\nIdentity and Access Management\nScripting and orchestration</li><li>Technology integrations",
                     "icon": "award"
                 },
                 {
                     "title": "Thought Leadership",
-                    "text": "<ul><li>SASE and Zero Trust evangelists/speakers</li><li>Strategic vision with a contemporary touch</li><li>Comfortable speaking with board members, CXOs and all levels of technologists and business leaders</li><li>Focused on solutions, not vendors</li></ul>",
+                    "text": "SASE and Zero Trust evangelists/speakers\nStrategic vision with a contemporary touch\nComfortable speaking with board members, CXOs and all levels of technologists and business leaders\nFocused on solutions, not vendors",
                     "icon": "speaker"
                 }
             ]
