@@ -1,0 +1,17 @@
+{{- $fontName     := .Site.Params.font.name | default "Open Sans" }}
+{{- $fontFace     := replace $fontName " " "+" }}
+{{- $fontSizes    := delimit (.Site.Params.font.sizes | default (slice 300 400 600 700)) "," }}
+{{- $fontUrl      := printf "https://fonts.googleapis.com/css?family=%s:%s" $fontFace $fontSizes }}
+<link href="{{ $fontUrl }}" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="{{ "css/style.css" | relURL }}">
+<link rel="stylesheet" type="text/css" href="{{ "css/icons.css" | relURL }}">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=2023">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=2023">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=2023">
+<link rel="manifest" href="/site.webmanifest?v=2023">
+<link rel="mask-icon" href="/safari-pinned-tab.svg?v=2023" color="#5bbad5">
+<link rel="shortcut icon" href="/favicon.ico?v=2023">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
