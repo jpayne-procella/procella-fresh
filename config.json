@@ -65,23 +65,23 @@
                 }
             ]
         },
-        "section2": {
+        "section1a": {
             "title": "A Zero Trust Journey Requires",
             "subtitle": "experience and expertise",
-            "features": [
+            "tiles": [
                 {
                     "title": "Practical Experience",
-                    "text": "- 50+ years combined IT/Security experience\n- 37+ years combined Akamai tenure in a variety of IT, product, and customer-facing roles\n- Successfully led all major infrastructure and security rollouts and integrations\n- Identification of/due diligence for M&A targets",
+                    "text": "<ul><li>50+ years combined IT/Security experience</li><li>37+ years combined Akamai tenure in a variety of IT, product, and customer-facing roles</li><li>Successfully led all major infrastructure and security rollouts and integrations</li><li>Identification of/due diligence for M&A targets</li></ul>",
                     "icon": "corporation"
                 },
                 {
                     "title": "Subject Matter Expertise",
-                    "text": "- Security Architecture, Engineering and Operations\n- Network and Systems Infrastructure\n- Identity and Access Management\n- Scripting and orchestration\n- Technology integrations",
+                    "text": "<ul><li>Security Architecture, Engineering and Operations</li><li>Network and Systems Infrastructure</li><li>Identity and Access Management</li><li>Scripting and orchestration</li><li>Technology integrations</li></ul>",
                     "icon": "award"
                 },
                 {
                     "title": "Thought Leadership",
-                    "text": "- SASE and Zero Trust evangelists/speakers\n- Strategic vision with a contemporary touch\n- Comfortable speaking with board members, CXOs and all levels of technologists and business leaders\n- Focused on solutions, not vendors",
+                    "text": "<ul><li>SASE and Zero Trust evangelists/speakers</li><li>Strategic vision with a contemporary touch</li><li>Comfortable speaking with board members, CXOs and all levels of technologists and business leaders</li><li>Focused on solutions, not vendors</li></ul>",
                     "icon": "speaker"
                 }
             ]
