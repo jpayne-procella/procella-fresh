@@ -1,7 +1,7 @@
 {
     "params": {
         "navbarlogo": {
-            "image": "static/images/procella-no-words-transparent.png",
+            "image": "procella-no-words-transparent.png",
             "width": 40,
             "height": 40,
             "link": "/"
@@ -11,7 +11,7 @@
             "subtitle": "Procella is your trusted partner to provide experience and expertise in Zero Trust/SASE",
             "buttontext": "Contact Us",
             "buttonlink": "/contact",
-            "image": "static/images/02bca51424.png", 
+            "image": "02bca51424.png", 
             "_comment_for_logos": "clientlogos is an array of objects with logo and url.  logo is an SVG in static/images/logos/clients/"          
         },
         "navbar": [
@@ -89,7 +89,7 @@
         "section3": {
             "title": "A Zero Trust Journey Requires",
             "subtitle": "experts in a robust ecosystem",
-            "image": "static/images/procella-passion.png",
+            "image": "procella-passion.png",
             "buttonText": "Get started",
             "buttonLink": "/contact"
         },
@@ -112,7 +112,7 @@
             ]
         },
         "footer": {
-            "logo": "static/images/procella-no-words-transparent.png",
+            "logo": "procella-no-words-transparent.png",
             "socialmediatitle": "Follow Us",
             "socialmedia": [
                 {
