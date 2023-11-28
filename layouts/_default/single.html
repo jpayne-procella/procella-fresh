@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+  {{ partial "single/single.html" . }}
+
+  {{ partial "footer.html" . }}
+
+  {{ if .Params.sidebar }}
+  {{ partial "single/sidebar.html" . }}
+  {{ end }}
+
+{{ end }}
