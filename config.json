@@ -136,6 +136,14 @@
                     "icon": "linkedin"
                 },
                 {
+                    "link": "https://www.threads.net/procellatech",
+                    "icon": "threads"
+                },
+                {
+                    "link": "https://bsky.app/profile/procella.tech",
+                    "icon": "bluesky"
+                },
+                {
                     "link": "https://x.com/procellatech",
                     "icon": "x-twitter"
                 }
